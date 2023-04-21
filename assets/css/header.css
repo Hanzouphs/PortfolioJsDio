@@ -16,7 +16,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('assets/svg/reticencias.svg');
+    background-image: url('/assets/svg/reticencias.svg');
 }
 .header .title{
     font-family: 'Neue Machina';
@@ -65,16 +65,16 @@ picture img{
     margin-right: .5rem;
 }
 .information .job::before {
-    background-image: url('assets/svg/job.svg');
+    background-image: url('/assets/svg/job.svg');
 }
 .information .position::before {
-    background-image: url('assets/svg/position.svg');
+    background-image: url('/assets/svg/position.svg');
 }
 .information .contact::before {
-    background-image: url('assets/svg/contact.svg');
+    background-image: url('/assets/svg/contact.svg');
 }
 .information .mail::before {
-    background-image: url('assets/svg/mail.svg');
+    background-image: url('/assets/svg/mail.svg');
 }
 
 
