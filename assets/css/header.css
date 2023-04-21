@@ -21,6 +21,7 @@
 .header .title{
     font-family: 'Neue Machina';
     text-align: center;
+    flex-wrap: wrap-reverse;
 }
 picture{
     width: 200px;
